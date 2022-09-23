@@ -10,4 +10,5 @@ _**App version:** 1.0.0_
 
 :slightly_smiling_face: **_[Download the program](https://github.com/Sky-VIN/RTMI/blob/main/Refresh%20Types%20Menu%20Item/bin/Release/RTMI.exe?raw=true)_**
 
-![screenshot](https://user-images.githubusercontent.com/12991091/163800530-648ee601-2dde-4702-910a-a3c8e9160531.png)
+![screenshot](https://user-images.githubusercontent.com/12991091/192054800-d23f4731-e352-43f7-886a-fb47a8fdc68b.jpg)
+
